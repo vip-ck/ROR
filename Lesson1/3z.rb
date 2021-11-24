@@ -1,5 +1,5 @@
 require 'httparty'
-url = 'https://gb.ru/courses'
-response = HTTParty.get(url)
+
+response = HTTParty.get('https://gb.ru/courses')
 
 puts response.body.lines.count
