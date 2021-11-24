@@ -1,0 +1,5 @@
+utf8	"✓"
+authenticity_token	"kWv4Z222Btosubx1pnIR4g3hSJrzw7lTR9lbTaDIMKFgljz1EUs4hX39kUduLBXXH9CoE6Cxv2fAPkcoA2t2fQ=="
+user[email]	"vip1313@gmail.com"
+user[password]	"*********"
+user[remember_me]	"0"
