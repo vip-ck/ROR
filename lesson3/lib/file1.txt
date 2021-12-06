@@ -1,0 +1,9 @@
+["/home/vip/.rbenv/rbenv.d/exec/gem-rehash",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/site_ruby/3.0.0",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/site_ruby/3.0.0/x86_64-linux",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/site_ruby",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/vendor_ruby/3.0.0",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/vendor_ruby/3.0.0/x86_64-linux",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/vendor_ruby",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/3.0.0",
+ "/home/vip/.rbenv/versions/3.0.3/lib/ruby/3.0.0/x86_64-linux"]
