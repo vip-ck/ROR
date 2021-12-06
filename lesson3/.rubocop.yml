@@ -1,6 +1,7 @@
 AllCops:
   TargetRubyVersion: 3.0
   Exclude:
+    - 'tmp/**/*'
     - 'vendor/**/*'
     - 'spec/**/*'
     - 'db/migrate/**/*'
@@ -8,9 +9,11 @@ AllCops:
     - 'db/schema.rb'
     - 'config/**/*'
     - 'bin/bundle'
-    - 'tmp/**/*'
 Style/AsciiComments:
   Enabled: false
 Style/Documentation:
   Enabled: false
-  
+Naming/MethodParameterName:
+  Enabled: false
+Naming/PredicateName:
+  Enabled: false
